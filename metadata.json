@@ -1,0 +1,7 @@
+{
+  "name": "GuardiaPay AI - Smart Fraud Prevention",
+  "description": "An intelligent payment safety platform that uses AI to analyze transaction patterns and provide transparent, human-readable explanations for fraud risks.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
